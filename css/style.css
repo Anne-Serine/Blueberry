@@ -1,3 +1,13 @@
 body {
-    background: #c30c15;
+    background-color:#e1eeef;
+}
+
+p {
+    color: #202122;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kulklasse {
+    font-size: 30px;
 }
